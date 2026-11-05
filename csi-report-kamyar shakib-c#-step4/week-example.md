@@ -1,0 +1,270 @@
+<!-- نمونه پرشده — صرفاً جهت راهنمایی؛ این فایل را پر نکنید و ارسال ننمایید.
+     این فایل نشان می‌دهد یک هفته‌ی تکمیل‌شده چگونه است و چه سطحی از جزئیات مورد انتظار است.
+     هفته‌های شما شامل week-01.md، week-02.md و ... هستند که از روی week-template.md کپی می‌شوند.
+     نام‌ها، لینک‌ها و تاریخ‌های زیر صرفاً نمونه هستند.
+     پاسخ پرسش «۲۵ ساعت فعالیت» تا وقتی مجموع فعالیت تجمعی به ۲۵ ساعت نرسیده «خیر» است و از آن پس «بله» می‌شود؛
+     در این هفته‌ی نمونه مجموع فعالیت ۲۰ ساعت است، پس پاسخ همه‌ی روزها «خیر» است. -->
+
+# گزارش روزانه کارآموزی CS - استپ ۱ - هفته ۱
+
+## اطلاعات کارآموز
+
+<div dir="rtl">
+
+| مشخصه                 | مقدار                               |
+| --------------------- | ----------------------------------- |
+| **نام کارآموز**       | علی علوی (نمونه)                    |
+| **نام کوردیناتور**    | [نام کوردیناتور]                    |
+| **شماره استپ**        | استپ ۱                              |
+| **لینک سند استپ**     | https://example.com/step-1-document |
+| **ساعت توافقی هفتگی** | ۲۰ ساعت                             |
+| **قول استپ (ددلاین)** | ۱۴۰۵-۰۷-۰۵                          |
+
+</div>
+
+---
+
+## فعالیت‌های هفته ۱
+
+> **کد نمونه (Snippet):** بلوک کد زیر را کپی کنید و در هر روزی که فعالیت داشتید، آن را پس از سه ردیف بالای روز و پیش از بخش «جلسات» قرار دهید. عبارت `تسک / آیتم [شماره]` را با نام تسک یا موضوع مطالعه‌ی خود جایگزین کنید.
+
+```markdown
+#### 📋 تسک / آیتم [شماره] : نام تسک
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  |      |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |      |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   |      |
+
+</div>
+```
+
+### دوشنبه (۱۴۰۵-۰۶-۲۳)
+
+- **ساعت کاری امروز:** ۴
+- **رضایت امروز:** ۸۰٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : راه‌اندازی محیط توسعه
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1234               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567890 |
+
+</div>
+
+**جلسات:**
+
+جلسه‌ی آنبوردینگ با کوردیناتور برگزار شد؛ در این جلسه سند استپ، انتظارات کامیت روزانه و نحوه‌ی ارسال گزارش در تلگرام بررسی شد.
+
+**گزارش توصیفی:**
+
+امروز محیط توسعه را راه‌اندازی کردم: گیت را نصب کردم، نام و ایمیل کاربری را تنظیم کردم و ریپوی گزارش را فورک و کلون کردم.
+سپس کل فایل README را مطالعه کردم و با ساختار پوشه‌ی `step-template-fa` و روند روزانه‌ی ارسال گزارش آشنا شدم.
+
+<br>
+
+---
+
+### سه‌شنبه (۱۴۰۵-۰۶-۲۴)
+
+- **ساعت کاری امروز:** ۳
+- **رضایت امروز:** ۸۵٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : مطالعه مفاهیم پایه‌ای گیت
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1235               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567891 |
+
+</div>
+
+**جلسات:**
+
+بدون جلسه
+
+**گزارش توصیفی:**
+
+امروز روی مفاهیم پایه‌ی گیت تمرکز کردم و تفاوت ریپازیتوری (repository)، کامیت (commit)، پوش (push) و برنچ (branch) را یاد گرفتم.
+برای تثبیت یادگیری، جریان روزانه‌ی کار را روی یک فایل آزمایشی تمرین کردم و تغییرات را با `git add`، `git commit` و `git push` منتشر کردم.
+
+<br>
+
+---
+
+### چهارشنبه (۱۴۰۵-۰۶-۲۵)
+
+- **ساعت کاری امروز:** ۴
+- **رضایت امروز:** ۹۰٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : پیاده‌سازی ساختار استاتیک صفحه اصلی
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1236               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567892 |
+
+</div>
+
+#### 📋 تسک / آیتم ۲ : مطالعه CSS flexbox
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1237               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567893 |
+
+</div>
+
+**جلسات:**
+
+جلسه‌ی سینک هفتگی با کوردیناتور برگزار شد؛ در آن پیشرفت کار مرور شد و ساختار اولیه‌ی صفحه‌ی اصلی تایید شد.
+
+**گزارش توصیفی:**
+
+ساختار استاتیک صفحه‌ی اصلی را شامل هدر، بخش Hero و سه کارت ویژگی پیاده‌سازی کردم.
+کد را با سند استپ مقایسه کردم و دو مورد مغایرت در فاصله‌گذاری‌ها (spacing) را اصلاح کردم تا چیدمان مطابق انتظار باشد.
+
+<br>
+
+---
+
+### پنج‌شنبه (۱۴۰۵-۰۶-۲۶)
+
+- **ساعت کاری امروز:** ۳
+- **رضایت امروز:** ۸۵٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : رفع باگ ریسپانسیو لایه‌بندی
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1238               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567894 |
+
+</div>
+
+**جلسات:**
+
+جلسه‌ی پیر پروگرمینگ (Pair-programming) با منتور برگزار شد؛ مشکل هم‌پوشانی المان‌ها با هم دیباگ شد و نحوه‌ی بررسی استایل‌های نهایی (Computed styles) در مرورگر را یاد گرفتم.
+
+**گزارش توصیفی:**
+
+باگ ریسپانسیوی را که باعث هم‌پوشانی کارت‌های ویژگی در عرض‌های کمتر از ۶۰۰ پیکسل می‌شد شناسایی و رفع کردم.
+عرض‌های ثابت پیکسلی را با flexbox و واحدهای نسبی جایگزین کردم تا چیدمان در اندازه‌های مختلف صفحه درست بماند.
+
+<br>
+
+---
+
+### جمعه (۱۴۰۵-۰۶-۲۷)
+
+- **ساعت کاری امروز:** ۰
+- **رضایت امروز:** —
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+**جلسات:**
+
+بدون جلسه
+
+**گزارش توصیفی:**
+
+روز تعطیل، بدون فعالیت.
+
+<br>
+
+---
+
+### شنبه (۱۴۰۵-۰۶-۲۸)
+
+- **ساعت کاری امروز:** ۴
+- **رضایت امروز:** ۸۰٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : پیاده‌سازی اعتبارسنجی فرم تماس
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1239               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567895 |
+
+</div>
+
+**جلسات:**
+
+بدون جلسه
+
+**گزارش توصیفی:**
+
+اعتبارسنجی سمت کلاینت فرم تماس را اضافه کردم: اجباری بودن فیلدها، بررسی فرمت ایمیل و نمایش پیام خطا در کنار هر فیلد.
+حالت‌های خالی، نامعتبر و معتبر را دستی تست کردم و مطمئن شدم پیام‌های خطا درست و بدون خطای کنسول نمایش داده می‌شوند.
+
+<br>
+
+---
+
+### یکشنبه (۱۴۰۵-۰۶-۲۹)
+
+- **ساعت کاری امروز:** ۲
+- **رضایت امروز:** ۸۵٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
+
+#### 📋 تسک / آیتم ۱ : برنامه‌ریزی هفته‌ی بعد و ریفکتور استایل‌های مشترک CSS
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  | https://t.me/cs_internship/1240               |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   | https://x.com/[your-handle]/status/1234567896 |
+
+</div>
+
+**جلسات:**
+
+بدون جلسه
+
+**گزارش توصیفی:**
+
+سند استپ را مرور کردم و تسک‌های هفته‌ی آینده را برنامه‌ریزی کردم.
+رنگ‌ها و فاصله‌های تکراری را به متغیرهای CSS (CSS variables) منتقل کردم تا استایل‌های مشترک قابل نگهداری‌تر شوند.
+
+<br>
+
+---
+
+### ارزیابی کلی هفته
+
+<div dir="rtl">
+
+| معیار ارزیابی            | مقدار         |
+| ------------------------ | ------------- |
+| **مجموع ساعات این هفته** | ۲۰ از ۲۰ ساعت |
+| **رضایت کلی**            | ۸۵٪           |
+
+</div>
