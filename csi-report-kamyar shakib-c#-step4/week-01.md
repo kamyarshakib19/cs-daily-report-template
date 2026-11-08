@@ -142,10 +142,10 @@
 
 ---
 
-### یکشنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### یکشنبه (17 - 08 - 05)
+- **ساعت کاری امروز:** 2
+- **رضایت امروز:** [0]٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
 **جلسات:**
 
@@ -153,7 +153,21 @@
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+شروع فصل 5 کتاب.
+
+```markdown
+#### 📋 تسک / آیتم [1] : C# book, chapter 5: Collections
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14166 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/e2YYUZM9 |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/kamyar_sha/status/2119323493234020515 |
+
+</div>
+```
 
 <br>
 
