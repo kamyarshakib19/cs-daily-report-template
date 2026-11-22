@@ -165,19 +165,42 @@ taks haye 6 va panj ro anjam dadam.
 
 ---
 
-### یکشنبه (24 - 08 - 05)
-- **ساعت کاری امروز:** 0
+### یکشنبه (01 - 09 - 05)
+- **ساعت کاری امروز:** 5
 - **رضایت امروز:** [0]٪
 - **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+sherkat dar jalase kargahi
 
 **گزارش توصیفی:**
 
-کاری نکردم
+khondan edame ketab anjam dadan khondan task haye 2, 3 va sherkat dar jalase kargahi
 
+#### 📋 آیتم [2] : Collections (C# Programming Guide)
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  |   https://t.me/c/1326872711/14210   |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |   https://lnkd.in/p/eFbXkYim   |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   |   https://x.com/kamyar_sha/status/2124401551766634972   |
+
+</div>
+
+#### 📋 آیتم [3] : Covariance and Contravariance (C# Programming Guide)
+
+<div dir="rtl">
+
+| شبکه اجتماعی                                                                                                                  | لینک |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  |   https://t.me/c/1326872711/14211   |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |   https://lnkd.in/p/eyzsx29r   |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   |   https://x.com/kamyar_sha/status/2124577390265602504   |
+
+</div>
 <br>
 
 ---
@@ -188,7 +211,7 @@ taks haye 6 va panj ro anjam dadam.
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | 25 از 7 ساعت |
+| **مجموع ساعات این هفته** | 5 از 14 ساعت |
 | **رضایت کلی** | [0]% |
 
 </div>
