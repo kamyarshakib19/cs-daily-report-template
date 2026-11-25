@@ -120,8 +120,8 @@ tamrin hayee akhar ro ham raftam va barashon post neveshtam
 
 ---
 
-### چهارشنبه (27 - 08 - 05)
-- **ساعت کاری امروز:** 2
+### چهارشنبه (04 - 08 - 05)
+- **ساعت کاری امروز:** 0
 - **رضایت امروز:** [0]٪
 - **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
@@ -131,7 +131,7 @@ tamrin hayee akhar ro ham raftam va barashon post neveshtam
 
 **گزارش توصیفی:**
 
-خوندن ادامه کتاب
+kari nakardam
 
 <br>
 
