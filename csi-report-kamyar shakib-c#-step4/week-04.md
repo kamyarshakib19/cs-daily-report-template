@@ -171,8 +171,8 @@ kari nakardam
 
 ---
 
-### شنبه (30 - 08 - 05)
-- **ساعت کاری امروز:** 4
+### شنبه (07 - 08 - 05)
+- **ساعت کاری امروز:** 0
 - **رضایت امروز:** [0]٪
 - **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** خیر
 
@@ -182,33 +182,8 @@ kari nakardam
 
 **گزارش توصیفی:**
 
-taks haye 6 va panj ro anjam dadam.
+kari nakardam.
 
-کاری نکردم
-
-#### 📋 تسک [6] : Mini Project - Task Management System
-
-<div dir="rtl">
-
-| شبکه اجتماعی                                                                                                                  | لینک |
-| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  |   https://t.me/c/1326872711/14207   |
-| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |   https://lnkd.in/p/eJdprDh4   |
-| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   |   https://x.com/kamyar_sha/status/2124017698514297185   |
-
-</div>
-
-#### 📋 تسک [5] : Pass these exercises at exercism.io
-
-<div dir="rtl">
-
-| شبکه اجتماعی                                                                                                                  | لینک |
-| ----------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg)  |   https://t.me/c/1326872711/14208   |
-| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |   https://lnkd.in/p/eEQedcah   |
-| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg)   |   https://x.com/kamyar_sha/status/2124043732928323883   |
-
-</div>
 <br>
 
 ---
